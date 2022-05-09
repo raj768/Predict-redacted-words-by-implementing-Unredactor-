@@ -104,7 +104,7 @@ This function checks whether the model has retured predicted values or not and a
 This function checks whether it is able to display output or not.
 
 ## Bugs:
-1. If some extra features that are not presented in 'unredactor.tsv' dataset are provided, We will not get accurate results.
+1. If some extra features that are not presented in 'unredactor.tsv' dataset are provided, We will not get accurate results
 
 
 
