@@ -111,6 +111,7 @@ This function checks whether the model has retured predicted values or not and a
 This function checks whether it is able to display output or not.
 
 ## Bugs:
+1. There are some space issues in the structures in the data provided in the tsv format. 
 1. If some extra features that are not presented in 'unredactor.tsv' dataset are provided, We will not get accurate results
 
 
