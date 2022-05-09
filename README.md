@@ -13,6 +13,13 @@ pandas, scipy, sklearn, nltk.
 3. Use the countVectorizer to featurize the text data before fitting into machine learning model.
 4. Implement ML model to predict the redacted word.
 
+## How to run the project:
+
+1. For this project, as suggested, you can use your personal machine or use  this https://jupyter.lib.ou.edu/hub/home link to open jupyter hub instance.
+2. In the next step, you can import my 'Project_3.ipynb' over that jupyter hub instance.
+3. Execute the project cell-by-cell to get the desired output. 
+
+
 ## Functions:
 
 ### read_data(filename):
