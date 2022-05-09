@@ -14,14 +14,14 @@ from Unredacted import *
 # In[120]:
 
 
-path = 'unredactor.tsv'
+filename = 'unredactor.tsv'
 
 
 # In[121]:
 
 
 def read__test():
-    data = Unredacted.read_data(path)
+    data = Unredacted.read_data(filename)
     return data
     assert data.shape is not None
 
