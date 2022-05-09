@@ -4,7 +4,7 @@ For this project, I have implemented an unredactor which takes the data in the f
 
 ## Libraries used:
 
-pandas, sklearn, nltk.
+pandas, scipy, sklearn, nltk.
 
 ## Steps for completing this project:
 
