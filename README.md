@@ -17,7 +17,7 @@ pandas, scipy, sklearn, nltk.
 
 1. For this project, as suggested, you can use your personal machine or use  this https://jupyter.lib.ou.edu/hub/home link to open jupyter hub instance.
 2. In the next step, you can import my 'Project_3.ipynb' over that jupyter hub instance.
-3. Execute the project cell-by-cell to get the desired output. 
+3. Execute the project cell-by-cell in the jupyter to get the desired output. 
 
 
 ## Functions:
